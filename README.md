@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="A_professional_banner_graphic_introduces_Rajeev_Mo" src="https://github.com/user-attachments/assets/1596d7e2-aa45-4cd0-bbc1-9cbd3af41d0c" />
 
 ## Hi there 👋
 
