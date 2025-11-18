@@ -1,16 +1,77 @@
+<img src="A_professional_banner_graphic_introduces_Rajeev_Mo.png" width="100%" />
+
+
 ## Hi there 👋
 
-<!--
-**rajeevmore112/rajeevmore112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Rajeev More
+Cybersecurity • Identity & Access Management • Python Developer
 
-Here are some ideas to get you started:
+Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m a developer transitioning into Cybersecurity and Identity & Access Management (IAM).
+I enjoy building practical security tools, automating workflows, and exploring authentication systems.
+Currently learning Ping Identity, ForgeRock, and SailPoint to grow in the IAM domain.
+
+I focus on projects that blend:
+🔐 Security
+🧠 Logic
+🖥️ Python automation
+🎨 Clean UI/UX
+
+## Skills & Tools
+
+💻 Programming & Scripting
+- Python
+- Bash / PowerShell
+- Regex
+- APIs
+
+🔐 Cybersecurity Skills
+- Network Packet Capture & Analysis
+- Scapy-based tool development
+- Encryption (AES-256-GCM, PBKDF2)
+- Log analysisThreat simulation & detection
+
+👥 IAM / Access Management
+- Identity lifecycle concepts
+- Authentication & MFA
+- SSO (OAuth/OIDC/SAML)
+- Learning Ping, ForgeRock, SailPoint
+
+⚙ Tools & Technologies
+- PyInstaller
+- Wireshark
+- Nmap
+- Tkinter GUI
+- Git & GitHub
+
+## Featured Projects
+
+🔒 Secure File Storage App
+
+AES-256-GCM encryption tool with password-based key derivation, GUI, secure wipe, logs, and EXE version.
+🔗 Repo: https://github.com/rajeevmore112/Secure-Storage-App
+
+⭐ Technologies: Python, cryptography, Tkinter, PyInstaller
+
+📡 Network Packet Sniffer (with Anomaly Detection)
+
+Custom packet sniffer using Scapy, SQLite logging, alert system, and visualization graphs.
+🔗 Repo: https://github.com/rajeevmore112/Network-Packet-Sniffer
+
+⭐ Technologies: Python, Scapy, SQLite, Matplotlib
+
+## What I’m Working On
+
+- Improving my IAM fundamentals
+- Learning enterprise authentication workflows
+- Building practical tools around IAM & security
+- Creating better visualizations for threat analysis
+
+## Contact Me
+
+📧 Email: rajeevmore112@gmail.com
+💼 LinkedIn: https://linkedin.com/in/rajeev-more
+🐙 GitHub: https://github.com/rajeevmore112
