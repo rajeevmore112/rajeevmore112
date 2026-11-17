@@ -26,13 +26,6 @@ I focus on projects that blend:
 - Regex
 - APIs
 
-🔐 Cybersecurity Skills
-- Network Packet Capture & Analysis
-- Scapy-based tool development
-- Encryption (AES-256-GCM, PBKDF2)
-- Log analysis
-- Threat simulation & detection
-
 👥 IAM / Access Management
 - Identity lifecycle concepts
 - Authentication & MFA
@@ -46,22 +39,6 @@ I focus on projects that blend:
 - Tkinter GUI
 - Git & GitHub
 
-## Featured Projects
-
-🔒 Secure File Storage App
-
-AES-256-GCM encryption tool with password-based key derivation, GUI, secure wipe, logs, and EXE version.
-🔗 Repo: https://github.com/rajeevmore112/Secure-Storage-App
-
-⭐ Technologies: Python, cryptography, Tkinter, PyInstaller
-
-📡 Network Packet Sniffer (with Anomaly Detection)
-
-Custom packet sniffer using Scapy, SQLite logging, alert system, and visualization graphs.
-🔗 Repo: https://github.com/rajeevmore112/Network-Packet-Sniffer
-
-⭐ Technologies: Python, Scapy, SQLite, Matplotlib
-
 ## What I’m Working On
 
 - Improving my IAM fundamentals
@@ -72,5 +49,5 @@ Custom packet sniffer using Scapy, SQLite logging, alert system, and visualizati
 ## Contact Me
 
 📧 Email: rajeevmore112@gmail.com
-💼 LinkedIn: https://linkedin.com/in/rajeev-more
+💼 LinkedIn: www.linkedin.com/in/rajeev-more-iam
 🐙 GitHub: https://github.com/rajeevmore112
